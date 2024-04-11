@@ -7,11 +7,11 @@ View existing entries in a list format.
 Delete entries from the list.
 Change impression and details of existing entries.
 Technologies Used
-Frontend:
+## Frontend:
 
 ## React
 React Bootstrap
-Backend:
+## Backend:
 
 ## Go
 Gin Framework
